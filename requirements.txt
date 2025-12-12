@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.28.0
+aiohttp==3.12.15
+psycopg2==2.9.10
+# if you're using Linux server you need to replace psycopg2 to psycopg2-binary
